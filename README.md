@@ -109,7 +109,7 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 Deepak Phenolics Limited (a Deepak Group company)
 
-Registered Office: Fermenter House, Vadodara, Gujarat 390003, India
+Registered Office: 4th Floor, Fermenter House, Alembic City, Alembic Avenue Road, Vadodara 390 003, Gujarat, India
 
 Email: dnsharma@godeepak.com
 
