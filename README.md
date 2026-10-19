@@ -1,12 +1,15 @@
 # PRIVACY POLICY
 
 **Effective Date:** 19 October 2026
+
 **Last Updated:** 19 October 2026
 
 This Privacy Policy explains how **Deepak Phenolics Limited** ("we", "our", "us"), part of the Deepak Group, collects, uses and protects personal information when we communicate with customers, employees and other contacts through WhatsApp. We use the WhatsApp Business Platform (Cloud API) provided by Meta, and our internal systems, including n8n workflow automation, ERP/SAP and CRM.
 
 **Company:** Deepak Phenolics Limited (Deepak Group), India
+
 **Website:** https://www.godeepak.com/
+
 **Privacy contact:** dnsharma@godeepak.com
 
 By using our WhatsApp services, you agree to the practices described in this Privacy Policy.
@@ -17,15 +20,22 @@ By using our WhatsApp services, you agree to the practices described in this Pri
 - **Employees** who receive work notifications such as visit reminders, alerts and reports.
 - **Anyone** who sends us a message on WhatsApp.
 
-## 2. Information we collect
+## 2. Information we collect and use
 
-- Name, company name, mobile number and WhatsApp number.
+**Information from our business systems (ERP/SAP, CRM)**
+
+- Customer name, company name, mobile number and WhatsApp number.
 - Order and dispatch details: sales order, delivery order and purchase order numbers, product, quantity, dispatch date, transporter and vehicle details.
 - For employees: name, mobile number, visit schedules and meeting notes needed for work.
-- Messages you send to us and message details such as timestamps and message IDs.
-- Basic profile information provided by WhatsApp.
 
-Most customer information comes from our own business systems (ERP/SAP), not directly from the user. We do not intentionally collect sensitive personal data unless you choose to provide it in a conversation.
+This information is used in the WhatsApp messages we send you, such as order and dispatch updates. We do not collect it directly from you on WhatsApp.
+
+**Information you send to us on WhatsApp**
+
+- Your WhatsApp number and profile name.
+- Messages you send to us, and message details such as timestamps and message IDs.
+
+We do not intentionally collect sensitive personal data unless you choose to provide it in a conversation.
 
 ## 3. How and why we use your information
 
@@ -76,7 +86,9 @@ To exercise these rights, email dnsharma@godeepak.com.
 ## 10. Grievance officer
 
 **Role:** Digital Applications / IT Team, Deepak Phenolics Limited
+
 **Email:** dnsharma@godeepak.com
+
 We aim to respond to complaints within **7 working days**.
 
 ## 11. Children's privacy
@@ -90,5 +102,7 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 ## 13. Contact us
 
 Deepak Phenolics Limited (Deepak Group)
+
 Email: dnsharma@godeepak.com
+
 Website: https://www.godeepak.com/
