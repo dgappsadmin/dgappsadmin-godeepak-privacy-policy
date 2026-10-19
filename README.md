@@ -6,7 +6,9 @@
 
 This Privacy Policy explains how **Deepak Phenolics Limited** ("we", "our", "us"), part of the Deepak Group, collects, uses and protects personal information when we communicate with customers, employees and other contacts through WhatsApp. We use the WhatsApp Business Platform (Cloud API) provided by Meta, and our internal systems, including n8n workflow automation, ERP/SAP and CRM.
 
-**Company:** Deepak Phenolics Limited (Deepak Group), India
+**Company:** Deepak Phenolics Limited (a Deepak Group company), operating through the business portfolio of Deepak Nitrite Limited
+
+**Registered Office:** Fermenter House, Vadodara, Gujarat 390003, India
 
 **Website:** https://www.godeepak.com/
 
@@ -19,6 +21,10 @@ By using our WhatsApp services, you agree to the practices described in this Pri
 - **Customers** who receive order, delivery order and dispatch updates from us.
 - **Employees** who receive work notifications such as visit reminders, alerts and reports.
 - **Anyone** who sends us a message on WhatsApp.
+
+## 1A. Purpose and scope of our WhatsApp use
+
+We use WhatsApp only for business-to-business and internal operational communication: order confirmation, delivery order and dispatch notifications to our existing business customers, and work notifications to our employees. We do not sell products or services through WhatsApp, we do not run a product catalogue, shopping cart or payment on WhatsApp, and we do not send advertising or unsolicited promotional messages to the general public. We comply with the WhatsApp Business Terms of Service and WhatsApp Business policies.
 
 ## 2. Information we collect and use
 
@@ -49,9 +55,9 @@ We use your information only for business communication and service-related purp
 
 ## 4. Consent and opt-out
 
-We send WhatsApp messages to customers and employees only where there is an existing business relationship and where they have agreed to receive such messages, for example during onboarding or while placing an order.
+We send WhatsApp messages from Deepak Phenolics Limited only to customers and employees who have agreed to receive them, for example when they provide their WhatsApp number to us during onboarding or while placing an order, with a clear statement that they will receive order and dispatch updates from Deepak Phenolics Limited on WhatsApp.
 
-You can stop receiving messages at any time by replying **STOP** to any message or by emailing dnsharma@godeepak.com. We will stop sending you messages promptly.
+You can stop receiving messages at any time by replying **STOP** to any message or by emailing dnsharma@godeepak.com. We stop sending messages promptly after your request.
 
 ## 5. WhatsApp and Meta platform
 
@@ -101,7 +107,9 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 ## 13. Contact us
 
-Deepak Phenolics Limited (Deepak Group)
+Deepak Phenolics Limited (a Deepak Group company)
+
+Registered Office: Fermenter House, Vadodara, Gujarat 390003, India
 
 Email: dnsharma@godeepak.com
 
